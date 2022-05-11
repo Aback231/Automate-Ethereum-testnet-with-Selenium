@@ -10,7 +10,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 
-# seed_test = "connect spare fame there nominee finger clinic sword betray satisfy private sea"
+
 PASSWORD = "adminadmin"
 MNEMO = Mnemonic("english")
 MAIN_ETH_ADDRESS = "0xDc65e20C5e6399Ad90738fe7eb47B26DD4DBbC5E"
