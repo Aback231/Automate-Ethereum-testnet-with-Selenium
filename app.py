@@ -11,9 +11,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 
 
-PASSWORD = "adminadmin"
+PASSWORD = "password"
 MNEMO = Mnemonic("english")
-MAIN_ETH_ADDRESS = "0xDc65e20C5e6399Ad90738fe7eb47B26DD4DBbC5E"
+MAIN_ETH_ADDRESS = "0xDc65e20C2e6399Ad90738fe7eb47B26DD4DBbC5F"
 
 PROXY_HOST = '45.140.13.119'  # rotating proxy
 PROXY_PORT = 9132
